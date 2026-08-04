@@ -1,4 +1,4 @@
-# CPE106L - Laboratory Activity 1
+# CPE106L-4 - Laboratory Activity 1
 
 An interactive Python command-line program demonstrating fundamental programming concepts, input validation, error handling, modular function design, and Git version control workflows.
 
