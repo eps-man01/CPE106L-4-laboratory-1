@@ -1,0 +1,5 @@
+TEST CASE 1: Given integer, Select Option 1
+TEST CASE 2: Given integer, Select Option 2
+TEST CASE 3: Given integer, Select Option 3, Dictate Custom Integer
+TEST CASE 4: Given integer, Failed to select Option 1, 2, or 3.
+TEST CASE 5: Failed to give integer-type input
